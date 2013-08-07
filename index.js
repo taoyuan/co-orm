@@ -7,7 +7,7 @@ var orm = require('orm'),
 module.exports = exports = function (plugins) {
     if (!plugins) plugins = [];
     if (!Array.isArray(plugins)) plugins = [plugins];
-    plugins.push(require('./plugin'));
+    plugins.push(require('./lib/plugin'));
 
     return {
         init: function (compound) {

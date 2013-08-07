@@ -2,7 +2,7 @@
     "name": "co-orm",
     "version": "0.0.1",
     "description": "An extension for introducing node-orm2 into compound js.",
-    "main": "lib/index.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
