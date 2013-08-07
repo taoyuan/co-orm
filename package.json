@@ -1,0 +1,23 @@
+{
+  "name": "co-orm",
+  "version": "0.0.1",
+  "description": "co-orm ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taoyuan/co-orm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoyuan/co-orm/issues"
+  },
+  "dependencies": {
+    "orms": "0.0.9",
+    "lodash": "~1.3.1",
+    "orm": "~2.1.0"
+  }
+}
